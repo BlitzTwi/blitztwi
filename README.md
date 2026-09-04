@@ -40,7 +40,12 @@
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
 
-![BlitzTwi's GitHub stats](https://vercel.app)
+<details>
+  <summary>Contacts</summary>
+  <ul>
+    <li><i>Session:<i>05a8f6993f2d12ba55e5a2305503117e9be5c6969b68f50859d1db342144494d4b</li>
+  </ul>
+</details>
 
 <!--
 **BlitzTwi/blitztwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
