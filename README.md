@@ -1,6 +1,7 @@
 # Hi there 👋
 
 <img src='https://derpicdn.net/img/view/2014/5/23/634658.gif' width='320' alt='Twilight Sparkle and  Rarity'>
+
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
