@@ -1,7 +1,6 @@
 # Hi there 👋
 
-![MLP]([https://en.wikipedia.org/wiki/File:My_Little_Pony_G4_logo.svg](https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/My_Little_Pony_G4_logo.svg/330px-My_Little_Pony_G4_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail))
-
+<img src='https://derpicdn.net/img/view/2014/5/23/634658.gif' width='320' alt='Twilight Sparkle and  Rarity'>
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
@@ -33,7 +32,7 @@
 
 
 ## AI
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
 
 <!--
