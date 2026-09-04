@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there 👋
 
 <img src='https://derpicdn.net/img/view/2014/5/23/634658.gif' width='320' alt='Twilight Sparkle and  Rarity'>
@@ -35,6 +36,8 @@
 ## AI
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
+
+</div>
 
 <!--
 **BlitzTwi/blitztwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
