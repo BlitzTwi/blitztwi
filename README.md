@@ -44,6 +44,7 @@
   <summary>Contacts</summary>
   <ul>
     <li><i>Session:<i>05a8f6993f2d12ba55e5a2305503117e9be5c6969b68f50859d1db342144494d4b</li>
+      ![Session ID](https://shields.io)
   </ul>
 </details>
 
