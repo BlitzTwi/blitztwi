@@ -1,5 +1,6 @@
 <div align="center">
-# Hi there 👋
+  
+<h1> Hi there 👋 </h1>
 
 <img src='https://derpicdn.net/img/view/2014/5/23/634658.gif' width='320' alt='Twilight Sparkle and  Rarity'>
 
