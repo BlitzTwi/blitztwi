@@ -32,9 +32,10 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## Operating Systems
-
 ![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
 
+## IDE
+![Emacs](https://img.shields.io/badge/emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white)
 
 ## AI
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
