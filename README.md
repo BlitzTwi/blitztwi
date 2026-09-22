@@ -2,7 +2,7 @@
   
 <h1> Hi there 👋 </h1>
 
-<img src='https://derpicdn.net/img/view/2025/11/5/3706536.gif](https://derpicdn.net/img/2012/12/31/198871/large.gif' width='320' alt='Twilight Sparkle'>
+<img src='https://derpicdn.net/img/2012/12/31/198871/large.gif' width='320' alt='Twilight Sparkle'>
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
