@@ -36,12 +36,15 @@
 ## Operating Systems
 ![Arch](https://img.shields.io/badge/Arch-%23D70A53.svg?style=for-the-badge&logo=arch&logoColor=white)
 
-## IDE
-![Emacs](https://img.shields.io/badge/emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white)
+##IDE
 
-## AI
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+
+##AI
+
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 <!--
