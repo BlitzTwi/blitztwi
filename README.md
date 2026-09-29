@@ -1,5 +1,3 @@
-
-  
 <h1> Hi there 👋 </h1>
 
 <img src='https://derpicdn.net/img/2012/12/31/198871/large.gif' width='320' alt='Twilight Sparkle'>
@@ -36,7 +34,7 @@
 
 
 ## Operating Systems
-![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-%23D70A53.svg?style=for-the-badge&logo=arch&logoColor=white)
 
 ## IDE
 ![Emacs](https://img.shields.io/badge/emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white)
