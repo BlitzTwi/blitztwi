@@ -36,11 +36,11 @@
 ## Operating Systems
 ![Arch](https://img.shields.io/badge/Arch-%23D70A53.svg?style=for-the-badge&logo=arch&logoColor=white)
 
-##IDE
+## IDE
 
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
-##AI
+## AI
 
 ![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white)
